@@ -1,0 +1,16 @@
+.main {
+  width: 1200px;
+  margin: 50px auto 0;
+}
+
+.navs {
+  display: flex;
+  gap: 12px;
+}
+
+.navs a {
+  background: green;
+  color: white;
+  padding: 5px 8px;
+  border-radius: 5px;
+}
